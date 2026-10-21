@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/yugo-45-powertrain-explainer/
 
+Repository: https://github.com/mizcausevic-dev/yugo-45-powertrain-explainer
+
 ## What this is
 
 An interactive anatomy plate for Yugo 45 Powertrain. Play, scrub, or jump the five stages. The same frame always draws the same picture.
